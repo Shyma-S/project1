@@ -1,0 +1,522 @@
+html
+{
+    scroll-behavior: smooth;
+}
+.arrow
+{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 50%;
+    padding: 10px 10px;
+}
+.maintext{
+    font-size: 36px;
+    font-weight: bold;
+    color:rgb(91, 238, 91);
+}
+.inbox{
+    
+    font-size: 15px;
+    color: grey;
+    padding-top: 40px;
+}
+/* .sec2{
+    margin-top: 0px;
+} */
+.opacity{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.432);
+}
+.trans{
+    height: 200px;
+    opacity: 0.5;
+}
+.sec3
+{
+    margin-top: 30px;
+}
+.sec4
+{
+    background-color: rgba(218, 207, 207, 0.87);
+    margin-top: 70px;
+}
+.inbox1
+{
+    text-align: center;
+    min-height: 150px;
+    padding-top: 40px;
+}
+.head
+{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+.para
+{
+    color: black;
+    font-weight: 0px;
+}
+.inbox2
+{
+ background-color: rgba(29, 208, 29, 0.727);
+ color: white;
+ /* font-weight: bold;+ */
+ font-size: 12px;
+ padding: 35px;
+ text-align: center;
+ 
+}
+.icon
+{
+    font-size: 16px;
+    background-color: rgb(231, 216, 216);
+    color: green;
+    padding: 8px 10px;
+    border-radius: 50%;
+    
+}
+.para1
+{
+    color: grey;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.inbox3
+{
+    text-align: center;
+    border: 1px solid lightgrey;
+    font-size: 14px;
+    margin-top: 20px;
+    height: 260px;
+    padding: 15px 15px;
+   
+}
+.sec5
+{
+    margin-top: 20px;
+}
+.head1
+{
+    padding-top: 20px;
+}
+.link
+{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.331);
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+.par{
+    font-weight: 0px;
+}
+.divlink
+{
+    text-align: center;
+}
+.sec6
+{
+    margin-top: 30px;
+}
+.inbox4
+{
+    
+    border: 1px solid rgba(211, 211, 211, 0.534);
+    /* border-top: 25px; */
+    font-size: 16px;
+    padding: 5px;
+    /* font-family:"Open Sans","sans-serif"; */
+    color:  #444444;
+    font-weight: bold;
+    text-align: left;
+}
+.inbox4:hover
+{
+    border-color: green;
+}
+.sec7
+{
+    margin-top: 80px;
+}
+.line{
+    height: 1px;
+    width: 120px;
+    background-color: rgb(49, 248, 49);
+    display: inline-block;
+}
+.course
+{
+    font-size: 16px;
+    color: grey;
+}
+.web
+{
+    background-color: green;
+    color: white;
+    padding-bottom: 15PX;
+    margin-top: 20PX;
+}
+.NUM
+{
+    font-size: 16PX;
+}
+.linkstyle
+{
+ color: black;
+ font-weight: bold;
+ text-decoration: none;
+
+}
+.trainer1
+{
+    border-radius: 50%;
+}
+.trainer{
+    color: grey;
+    font-weight: 500;
+    font-size: 14px;
+}
+.person
+{
+    color: grey;
+    font-size: 18px;
+
+}
+.inbox5{
+    border: 2px solid rgba(211, 211, 211, 0.446);
+   
+}
+.sec10
+{
+    margin-top: 40px;
+}
+.pic
+{
+    font-style: italic;
+    color: rgb(75, 69, 69);
+}
+.inbox6
+{
+    text-align: center;
+    border: 3px solid rgba(211, 211, 211, 0.621);
+    padding:20px 20px;
+
+}
+.pics
+{
+    font-style: italic;
+    color: grey;
+    padding-top: 10px;
+}
+.sec11
+{
+    margin-top: 80px;
+    background-color: rgba(211, 211, 211, 0.216);
+}
+.phone
+{
+    font-weight: bold;
+}
+.list{
+    font-size: 14px;
+    padding: 20px;
+    color: rgb(119, 115, 115);
+}
+.bi{
+    color: green;
+    font-weight: bold;
+}
+.link1
+{
+    color: grey;
+    text-decoration: none;
+}
+.inbox7
+{
+    color: grey;
+    padding-top: 20px;
+}
+.form
+{
+    border: 1px solid rgb(156, 150, 150);
+    border-radius: 30px;
+    position: relative;
+    height: 40px;
+    background-color: white;
+}
+.button
+{
+    background-color: rgba(0, 128, 0, 0.615);
+    border-radius:30px;
+    color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 7px 15px;
+    border-color: lightgrey;
+}
+.button:hover{
+    background-color: darkgreen;
+}
+.input
+{
+    border: 0px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+.sec12{
+    margin-top: 20px;
+    background-color: rgba(211, 211, 211, 0.412);
+}
+.inbox8{
+    padding: 20px;
+}
+.last{
+    color: white;
+    border: 6px green solid;
+    border-radius: 50%;
+    background-color: green;
+}
+.boot{
+    color: green;
+}
+.inbox9
+{
+    text-align: right;
+    padding: 20px;
+}
+.mentor
+{
+    color: rgb(69, 234, 69);
+    font-weight: bold;   
+}
+.mentor1:hover
+{
+    text-decoration: none;
+}
+.inbox10{
+    
+    float: left;
+    margin: 6.25px;
+}
+
+.inbox11{
+    float: left;
+    margin-left: 15px;
+    color: grey;
+    margin: 6.25px;
+}
+.start
+{
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.sec1
+{
+    /* padding: 20PX; */
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 2;
+    background-color: white;
+}
+.dropbox{
+    display: inline-block;
+    position: relative;
+    color: rgb(148, 146, 146);
+    padding-top: 8px;
+}
+.drop{
+    display: block;
+    padding: 8px 5px;
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+
+}
+.dropcontent{
+    position: absolute;
+    background-color: white;
+    width: 140px;
+    display: none;
+    color: gray;
+    padding: 10px;
+}
+.dropbox:hover .dropcontent
+{
+    display: block;
+}
+.about
+{
+    color: rgb(116, 114, 114);
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+.home
+{
+    color: green;
+}
+.sec2
+{
+    background-image: url(hero-bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.inbox13
+{
+    height: 500px;
+    padding-top: 230px;
+    color: white;
+}
+.dropbox1
+{
+    position: relative;
+    display: inline-block;
+    color: gray;
+}
+.dropcontent1
+{
+    position: absolute;
+    background-color: white;
+    width: 140px;
+    display: none;
+    color: gray;
+    padding: 10px;
+}
+.drop1{
+    display: block;
+    padding: 8px 5px;
+    color: rgb(17, 17, 17);
+    text-decoration: none;
+
+}
+.deep
+{
+    color: rgb(20, 20, 20);
+    text-decoration: none;
+
+}
+.dropbox1:hover .dropcontent1
+{
+    display: block;
+}
+
+.about:hover{
+    color: green;
+    text-decoration: none;
+}
+.start1
+{
+    color: white;
+   border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+  
+}
+.start1:hover{
+    background-color: green;
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    background-color: white;
+    color: green;
+    text-decoration: none;
+}
+.lorem
+{
+    color: gray;
+    text-decoration: none;
+
+}
+.lorem:hover{
+    color: green;
+    text-decoration: none;
+}
+.dropcontent:hover{
+    color: rgb(110, 244, 110);
+    text-decoration: none;
+}
+.drop:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.dropcontent1:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.dropbox1:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.deep:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.drop1:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.start:hover
+{
+    color: white;
+    text-decoration: none;
+}
+.link1:hover{
+    color: green;
+    text-decoration: none;
+}
+.icons{
+   color: gray;
+  }
+.icons:hover{
+    color: green;
+}
+.last:hover
+{
+   background-color: darkgreen;
+   border-color: darkgreen;
+}
+.arrow:hover
+{
+     background-color: lightgreen;
+    border-color: lightgreen;
+}
+.sec0{
+    background-color: green;
+}
+@media screen and (max-width:984px){
+    /* .inbox2{
+         min-height:500px; 
+    } */
+    .inbox8{
+        text-align: center;
+    }
+    .inbox9{
+        text-align: center;
+    }
+}
+@media screen and (max-width:991px){
+    .md{
+        margin-top: 10px;
+    }
+}
